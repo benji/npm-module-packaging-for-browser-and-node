@@ -1,0 +1,8 @@
+{
+  "name": "module3",
+  "version": "1.0.0",
+  "main": "index-nodejs.js",
+  "dependencies": {
+    "mymodule2": "../module2"
+  }
+}

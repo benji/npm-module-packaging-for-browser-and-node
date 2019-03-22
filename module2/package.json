@@ -1,0 +1,8 @@
+{
+  "name": "mymodule2",
+  "version": "1.0.0",
+  "main":"module2.js",
+  "dependencies": {
+    "module1": "../module1"
+  }
+}
